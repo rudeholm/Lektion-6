@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="01-Välkomstsnurran/01-Välkomstsnurran.csproj" />
+  <Project Path="02-Inmatningsskyddet/02-Inmatningsskyddet.csproj" Id="af33d815-de3d-493f-abb6-ef270356814b" />
 </Solution>
