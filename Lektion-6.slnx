@@ -5,4 +5,5 @@
   <Project Path="04-Baklänges/04-Baklänges.csproj" Id="aa19b09e-3701-4007-b909-b36d072a30d2" />
   <Project Path="05-Namnlistan/05-Namnlistan.csproj" Id="5e780661-0257-4ff0-b142-5fc853ca08b0" />
   <Project Path="06-Guld/06-Guld.csproj" Id="98523970-6b8e-4ec6-a270-34a21ded0e70" />
+  <Project Path="07-HoppaÖver/07-HoppaÖver.csproj" Id="be2d2711-5b09-4109-ae2f-8eab17578689" />
 </Solution>
