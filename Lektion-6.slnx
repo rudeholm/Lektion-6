@@ -2,4 +2,6 @@
   <Project Path="01-Välkomstsnurran/01-Välkomstsnurran.csproj" />
   <Project Path="02-Inmatningsskyddet/02-Inmatningsskyddet.csproj" Id="af33d815-de3d-493f-abb6-ef270356814b" />
   <Project Path="03-Räknaren/03-Räknaren.csproj" Id="541308e2-a1a5-4b55-8a4b-a675c8d5b3ab" />
+  <Project Path="04-Baklänges/04-Baklänges.csproj" Id="aa19b09e-3701-4007-b909-b36d072a30d2" />
+  <Project Path="05-Namnlistan/05-Namnlistan.csproj" Id="5e780661-0257-4ff0-b142-5fc853ca08b0" />
 </Solution>
