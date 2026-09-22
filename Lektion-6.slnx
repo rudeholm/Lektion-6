@@ -10,4 +10,5 @@
   <Project Path="09-Nödutgång/09-Nödutgång.csproj" Id="bffb8f90-ff19-4e9e-8180-201d8b2ef582" />
   <Project Path="10-Textanalysatorn/10-Textanalysatorn.csproj" Id="5b997db9-8c89-4c02-b993-daee007fa486" />
   <Project Path="11-Temperaturloggen/11-Temperaturloggen.csproj" Id="08e8f002-29b8-4b77-a96b-cc4e6f506610" />
+  <Project Path="12-RobustSifferinmatare/12-RobustSifferinmatare.csproj" Id="d3efae11-229b-44f6-8297-31318f7a3ceb" />
 </Solution>
