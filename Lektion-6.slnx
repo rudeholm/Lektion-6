@@ -12,4 +12,5 @@
   <Project Path="11-Temperaturloggen/11-Temperaturloggen.csproj" Id="08e8f002-29b8-4b77-a96b-cc4e6f506610" />
   <Project Path="12-RobustSifferinmatare/12-RobustSifferinmatare.csproj" Id="d3efae11-229b-44f6-8297-31318f7a3ceb" />
   <Project Path="13-RymdskeppetsKoordinater/13-RymdskeppetsKoordinater.csproj" Id="c02ec5dd-a78b-4b0c-afc2-50f1b17f62eb" />
+  <Project Path="14-Strängkomprimeraren/14-Strängkomprimeraren.csproj" Id="c2612898-778a-4428-851e-c4926fbd6313" />
 </Solution>
